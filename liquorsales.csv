@@ -1,0 +1,75 @@
+city,zipCode,store_name,store_number,item_number,item,liters_sold
+Fairfield,525560,"Hy-Vee Food Store / Fairfield",2601,86251,"Juarez Triple Sec",6
+Davenport,528030,"Hilltop Grocery",4962,41844,"Everclear Alcohol",1.12
+"COUNCIL BLUFFS",515010,"Hy-Vee Drugstore / Council Bluffs",2641,81124,"99 Peppermint Mini",1.2
+MUSCATINE,527610,"Nash Finch / Wholesale Food",3162,82847,"Dekuyper Peachtree",4
+"DES MOINES",503200,"Hy-Vee #3 / BDI / Des Moines",2633,973627,"Di Amore Quattro Orange",120
+Marshalltown,501580,"Hy-Vee Food Store / Marshalltown",2544,67557,"Kamora Coffee Liqueur",6
+Waterloo,507030,"Hy-Vee Food Store #2 / Waterloo",2571,168,"Pinnacle Peach w/ Punch Dispenser",135
+"Rock Valley",512470,"Pump N Pak",5446,86112,"Dekuyper Triple Sec",6
+"FORT DODGE",505010,"Hy-Vee Food Store / Fort Dodge",2562,38176,"Titos Vodka",81
+OSAGE,504610,"Osage Payless Foods",4559,35918,"Five O'clock Vodka",52.5
+"Storm Lake",505880,"Hy-Vee Wine and Spirits / Storm Lake",2576,84617,"Phillips Root Beer Schnapps",4
+Coralville,522410,"Bootleggin' Barzini's Fin",3869,43034,"Bacardi Gold",0.37
+"Council Bluffs",515010,"I-80 Liquor / Council Bluffs",4312,86251,"Juarez Triple Sec",48
+"DES MOINES",503140,"Central City 2",4829,48106,"Hennessy Vs Cognac",45
+BURLINGTON,526010,"Burlington Shell",4898,48099,"Hennessy VS",4.8
+"DES MOINES",503140,"Shop N Save #1 / Mlk Pkwy",3772,49182,"Remy Martin VSOP",2.4
+EVANSDALE,507070,"Fareway Stores #067 / Evansdale",4153,15626,Jameson,45
+Carroll,514010,"Fareway Stores #409 / Carroll",4158,33717,"Paramount Sloe Gin",4
+Marshalltown,501580,"Depot Liquor & Grocery",5416,67528,"Kahlua Coffee",5.25
+"Mount Vernon",523140,"Wilkie Liquors",5102,75087,"Juarez Gold Dss",660
+"Des Moines",503200,"Hy-Vee #3 / BDI / Des Moines",2633,926577,"Glen Oaks Whiskey Buy the Barrel",49.5
+MARSHALLTOWN,501580,"East Side Liquor and Groceries",5166,48099,"Hennessy VS",4.8
+"Council Bluffs",515010,"Speedy Gas N Shop",4867,67524,"Kahlua Coffee",2.62
+"Mount Vernon",523140,"Wilkie Liquors",5102,75087,"Juarez Gold Dss",900
+"Cedar Rapids",524110,"Hy-Vee #7 / Cedar Rapids",2647,41846,"Everclear Alcohol",27
+Davenport,528040,"Famous Liquors",5003,48690,"Martell VSSD",0.4
+"SIOUX CITY",511060,"Sam's Club 6432 / Sioux City",3447,86251,"Juarez Triple Sec",144
+"IOWA CITY",522400,"Hy-Vee Wine and Spirits / Iowa City",2512,27102,"Templeton Rye",13.5
+"Mason City",504010,"Hy-Vee Food Store #1 / Mason City",2515,986845,"Ole Smoky Blackberry Moonshine Mini",2.4
+"DES MOINES",503140,"Shop N Save #1 / Mlk Pkwy",3772,56193,"Paul Masson Peach Grande Amber Brandy",4.8
+Ames,500100,"Sam's Club 6568 / Ames",3524,946574,"Member's Mark Spiced Rum",504
+BURLINGTON,526010,"Quik Stop  /  Burlington",5204,35913,"Five O'clock Vodka",9.6
+"Sioux City",511060,"Sam's Club 6432 / Sioux City",3447,67586,"Kapali Coffee Liqueur",63
+"Spirit Lake",513600,"Hy-Vee Wine and Spirits / Spirit Lake",2522,77487,"Tortilla Gold Dss",48
+Waukee,502630,"Hy-Vee / Waukee",2665,3135,"Jagermeister w/2 Shot Glasses",63
+"West Des Moines",502660,"Hy-Vee Wine and Spirits / WDM",2619,250,"Avion Silver w/Powell & Mahoney Margarita Mix",67.5
+"Des Moines",503140,"Central City 2",4829,86251,"Juarez Triple Sec",180
+Waterloo,507010,"New Star Liquor / W 4th S / Waterloo",3993,43031,"Bacardi Gold Mini",0.2
+Dubuque,520030,"Sid's Beverage Shop",2465,43031,"Bacardi Gold Rum Mini",2.5
+JOHNSTON,501310,"Hy-Vee Food Store / Johnston",2587,38089,"Platinum 7x Vodka",4.8
+"West Des Moines",502650,"Fareway Stores #153  /  W Des Moines",5146,67526,"Kahlua Coffee",54
+"Mason City",504010,"Hy-Vee Food Store #1 / Mason City",2515,86843,"Ole Smoky Salty Caramel Whiskey",13.5
+"ROCK RAPIDS",512460,"Liquor Locker",3705,82187,"Arrow Spearmint Schnapps",5
+Oelwein,506620,"Fareway Stores #412 / Oelwein",4156,86739,"Ole Smoky Apple Pie Moonshine 70prf Mini",2.4
+Waukon,521720,"Double D Liquor Store",2178,67524,"Kahlua Coffee",0.37
+"Des Moines",503200,"Hy-Vee #3 / BDI / Des Moines",2633,77487,"Tortilla Gold Dss",72
+Clinton,527320,"Hy-Vee Food and Drug / Clinton",2616,45248,"Paramount Gold Rum",42
+Waterloo,507010,"New Star Liquor / W 4th S / Waterloo",3993,43034,"Bacardi Gold",2.62
+Waterloo,507030,"Hy-Vee Food Store #2 / Waterloo",2571,43034,"Bacardi Gold",0.37
+"Pleasant Hill",503270,"Fareway Stores #138 / Pleasant Hill",4971,43040,"Bacardi Gold Rum PET",178.5
+Carroll,514010,"Hy-Vee Food Store / Carroll",2593,27189,"Basil Hayden Dark Rye",13.5
+"DES MOINES",503170,"Hy-Vee Wine and Spirits / Hubbell",2636,56193,"Paul Masson Peach Grande Amber Brandy",4.8
+Swisher,523380,"Cedar Ridge Vineyards",9001,27357,"Cedar Ridge Single Malt Single Barrel Select",67.5
+"Iowa City",522400,"Hy-Vee Wine and Spirits / Iowa City",2512,86251,"Juarez Triple Sec",60
+Atlantic,500220,"Hy-Vee Wine and Spirits / Atlantic",2591,86507,"Paramount Triple Sec",4
+Waterloo,507020,"Hy-Vee Food Store #3 / Waterloo",2538,917914,"HA Elijah Craig Cask Barrel Proof",13.5
+"Sioux City",511060,"Sam's Club 6432 / Sioux City",3447,67527,"Kahlua Coffee Liqueur",240
+WATERLOO,507030,"Ray's Supermarket, Inc.",5113,48099,"Hennessy VS",4.8
+Creston,508010,"Fareway Stores #597 / Creston",4291,43037,"Bacardi Gold Rum",5
+"Missouri Valley",515550,"Food Land Super Markets",4152,45247,"Paramount Gold Rum",2
+Carroll,514010,"Hy-Vee Food Store / Carroll",2593,43031,"Bacardi Gold Mini",6
+WATERLOO,507030,"Logan Convenience Store",5063,37880,"Seagrams Extra Smooth",4.8
+"Fort Madison",526270,"Quicker Liquor Store",3549,67586,"Kapali Coffee Liqueur",27
+"Council Bluffs",515010,"Tobacco Hut #14 / Council Bluffs",3963,43031,"Bacardi Gold Mini",2
+Grimes,501110,"Fareway Stores #983 / Grimes",4136,77805,"Saints N Sinners Apple Pie",81
+"DES MOINES",503160,"Tequila's Liquor Store",4057,48099,"Hennessy VS",9.6
+WATERLOO,507020,"Sam's Club 6514 / Waterloo",3494,77487,"Tortilla Gold Dss",768
+Waterloo,507010,"Hy-Vee Wine and Spirits / Waterloo",2643,86112,"Dekuyper Triple Sec",2
+"Cedar Rapids",524020,"CVS Pharmacy #8526 / Cedar Rapids",2843,45246,"Paramount Gold Rum",5.25
+Cresco,521360,"The Ox & Wren Spirits and Gifts",5244,35917,"Five O'clock Vodka",2
+Coralville,522410,"Hy-Vee Food Store / Coralville",2670,65750,"Maestro Agavero Gold",48
+Dubuque,520010,"Iowa Street Market, Inc.",4167,67557,"Kamora Coffee Liqueur",4
+"Cedar Rapids",524020,"Sam's Club 8162 / Cedar Rapids",3385,86390,"Montezuma Triple Sec",216
+"DES MOINES",503140,"Central City 2",4829,86251,"Juarez Triple Sec",60
